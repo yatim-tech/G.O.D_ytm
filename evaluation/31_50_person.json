@@ -2,7 +2,7 @@
     "is_organic": false,
     "task_id": "22195013-7f79-499f-834b-3085b2b61bbf",
     "status": "success",
-    "model_id": "Lykon/dreamshaper-xl-1-0",
+    "model_id": "recoilme/colorfulxl",
     "ds": "person_cfa83640-2bd2-4851-a19a-c320eb0e8ff8",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,
