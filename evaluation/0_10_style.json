@@ -2,7 +2,7 @@
     "is_organic": false,
     "task_id": "b69fa594-35ea-432f-82f1-3a4efcddd7de",
     "status": "success",
-    "model_id": "stablediffusionapi/protovision-xl-v6.6",
+    "model_id": "recoilme/colorfulxl",
     "ds": "pixelated_glitch_art_a6a25977-5901-4f24-beaf-1200037b38f3",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,
