@@ -1,97 +1,97 @@
 {
     "is_organic": false,
-    "task_id": "b69fa594-35ea-432f-82f1-3a4efcddd7de",
+    "task_id": "adcda8d7-d391-4efa-aca0-da201222980e",
     "status": "success",
-    "model_id": "recoilme/colorfulxl",
-    "ds": "pixelated_glitch_art_a6a25977-5901-4f24-beaf-1200037b38f3",
+    "model_id": "John6666/hassaku-xl-illustrious-v10style-sdxl",
+    "ds": "sumi-e_and_ink_wash_painting_df11708b-17c2-4661-aa8c-6223775962fc",
     "account_id": "00000000-0000-0000-0000-000000000000",
     "times_delayed": 0,
     "hours_to_complete": 1,
-    "test_data": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/1e2d2975539da827_test_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T024011Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2d52fe482844d177c5b4fa40d0c25355a9604bbd25affaa4338ecdd34815d4f6",
-    "training_data": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/5857f8a12db5dbcf_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T024013Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fbd19abc9094c7b68d2bed8599ed86841d214983125d81c5d652f36809c9eb02",
+    "test_data": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/ca24adecd8912984_test_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210413Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7e9005c34b5cd83c01c99f536a763d05994e8fa333e35cc908b3f63b3266bbc2",
+    "training_data": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/d5497019840c5f6d_train_data.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210415Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1bb20c8e1797b90556bcb5a36dee3bd6c1ffa6ecfca0b2b1280e281a78636686",
     "assigned_miners": null,
     "miner_scores": null,
     "training_repo_backup": null,
-    "created_at": "2026-02-06T02:39:42.994319Z",
-    "next_delay_at": "2026-02-06T02:39:43.006785Z",
-    "updated_at": "2026-02-06T03:37:47.993761Z",
+    "created_at": "2026-02-19T21:03:42.182325Z",
+    "next_delay_at": "2026-02-19T21:03:42.200004Z",
+    "updated_at": "2026-02-20T01:39:21.956603Z",
     "started_at": null,
-    "termination_at": "2026-02-06T03:39:42.994320Z",
+    "termination_at": "2026-02-19T22:03:42.182327Z",
     "completed_at": null,
     "task_type": "ImageTask",
-    "trained_model_repository": "gradients-io-tournaments/tournament-tourn_8574c3ae244d9750_20260205-b69fa594-35ea-432f-82f1-3a4efcddd7de-5F53bVrV",
+    "trained_model_repository": "gradients-io-tournaments/tournament-tourn_fa4363d682790bd4_20260219-adcda8d7-d391-4efa-aca0-da201222980e-5CmAQ61V",
     "result_model_name": null,
     "yarn_factor": null,
     "image_text_pairs": [
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/09577b971a3bca73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023729Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef0694c298e9aaadbee63b8155225b17dd7e9e95f439fff0a9656d9cb89c28b5",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/eb3444e9fbd4c482.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023729Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=039b4f04413fe0ddb504ef376c0d50b3be07a8ceba4273edad7ce026d32834f5"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/40ca0e791aaebeff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210202Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b3eaa00f158460824f80ccec928ef75a4449652797a24ac2703dcedcf57c56e8",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/4a7ee56e211bdabb.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210202Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=95e77e5dd3584caa8672c00e299a52a1215d9c576412fceeccbe66777df2fcf7"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/7a9dcd954b58759b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023740Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b896b975ddfeafb7e6a95b254d0f7b28bffb530a9021407283af9f787f81697",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/f43a9af177bda174.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023740Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f7255ff3572d96bc6d4035f1132f4e1630aa3797f2cf0ffbe872a280a135fbe0"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/1819feec17a34e73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210205Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6244df7f8aa59d03e9e08093c3713b9c830e10439f1b7ba04cfeeabd82cc988",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/32b2fccc0cc4e0a6.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210206Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a83aee200f8a804fda9d76707e9dc30f441e3f1739c0351c72966979f35709e0"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/aed09c2a57931c93.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023750Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9caa4dca3b2dc2ced9aa3b801ab6a02267f0dc11053005d0f971b98b02a23636",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/a854e8948a3ddaf3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023750Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c9cc87f4cdbc7a44cbc2b218423bd3c4b85fedcaca39cda111971bc66d8f7a4"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/3d11bcd766df35dc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ff4b95d45517d1aff98c4501f99d0d633291932f528c77c7fd785b0400fe7573",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/c68579f4381d43d3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=45a4e35c386659aefb6daa5562a788c8c2602f0a3146c590036d4e1f0237106d"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/39ea58a5f53e673b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023756Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fed5216e9940de7d9b208c0af0e6dd90437496207fb3b531b215014bd40af2ea",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/93a0f9d830f687ac.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023757Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=35e76c5659b6650ac42caa2a26b2cbadc1f95c4f2cd9d9c9f67443321c7fcfca"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/3e2692a01bcd028c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210226Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=04ca3038c4641dab5ab4ba3369cd71eaefebea3574a2d54e0e7890b82c2c497d",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/8696dcd1a119a805.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210226Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=54780762a1984602d6b67c5d1923269010be3b021bbc8c4a15b90f9b7b611950"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/dc4d958e9004d1de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023810Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1c17d3c9d702e59b3036557e5cec143c614444f1ac425249f20876f2b0c97f13",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/1e61fd1b8f920323.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023811Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cdfe12790dc13e23d8643c830a674b95f0e87a98b53571e2bb7bad8e3bbf229d"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/f4575212263091f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=012d99dcdd97409819eb0d6c142c97863ba03f33d7dc42d27ec74a47a5685f7c",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/9a74f171213e7e7e.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b19433a2454fa7aac71e066071d808f864ac0af5d4bda88f0a34e8877e87d9f0"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/41aeb8dbf51f8b56.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023825Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5b7457f114c64e379dd6e26402785bbf0630572cd1fff3eba9ad14d775225ad",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/22c5b88284fc8adc.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023825Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=58f661c1ec3e5e6464857230b54c94251cc5a90d2cd51512e4238a5e2fd03844"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/acfd4f9bb7bc2656.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210245Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5a3654b5f0a1f56bc63a44cc1c430046a1be0266320ab8de718be87f40fbf35",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/1f584ce2915148b3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210247Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30adac9a3c8c64dd1f15e0e5ac8d15f8e9d2b7dc36d139b09a7c889c1fe01c92"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/ec40b3f4371aaa1b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023836Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=758c1a37332aca644e30c76955527a55fb2fe98147da75e17747fe7dd7bd67a3",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/1bc7794d91eb6de3.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023837Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b26dfa7480b109f9bc6fde6308148407b2c515387765b55312dc89f8723252dd"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/ced57861fe65116c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210300Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3e68281e11b74e39a89ebf4001564ea6159a892ea8152b6edc584c71008f6d38",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/f9b02c6ef3e936b4.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210301Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ebc40d9a2a5b6eab799147ad02bd2d22d7fb7afacf7151196a13668e7b310273"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/0132e4d4a58407da.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023850Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7bf76118627e33215d48372c2e74103a3c569750dd3299f4ff396b9c47fe733f",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/a03e6f5005b053e4.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023851Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ab6e36e98464267f60420c1b0303394d670a9864c7cbd61a0906912e603978d"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/1cc44a4cedd8ca70.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210308Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f638e1d6565588e2960e5d46e75e1bcc617bf9b2f544d18836ef7596f63213d4",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/dd445833e94f7ab4.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210308Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=094577459b22e48a2ba7105b0727bb7b10bdf8dab1199cdb1eb356b9e5fd5fbe"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/93f71ce78150c75b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023901Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b888601e2ee453d6df2f0408636a84f9d50901fbcf19c66fe3c74c10923877aa",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/a94a49400852f672.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023902Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a35952e11e3337faa216c5cbafcc7a98c8ebe2c72e0320e3a0604a1e4fa3c93"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/53f0fd432be3b2de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210316Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=50283a87af5a36e9e35a7b67890ba2957031b0c2cdd2d5a8020f02f09acfa5e9",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/46b29cec9f2f449c.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210317Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=283015340ef9232081d19f8ced3ee5ac51b5f552ae78f2e76abdb6e50d4776c3"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/d223a5bd5a7336e7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023915Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5c6cd1ac9f5cf69e93fd726c0a09ea9e81f35f3f8d46344993359d16b09f4ec7",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/f613871c39a6cdb8.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023916Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=776fd66f827ba07d73a508c5a77da7e9dcbc21c477534b9fa98df2bb0fcf9365"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/cd4e9adacb440cf3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0c7e2a0f90e2cc32b5c773be3576e400902491e64035baf33847fad03f63b06",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/4c8c68f705f54fe7.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210325Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eeae4564e4b748f5ab0890f15beedac373c53c3f02cdd98d8f01ed145723b4f9"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/a0190a9a0a63fb50.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023928Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=856c92d2d83ece89be0733e21c4781f4f87f20689f12a3b8516f2997fc3c9a8f",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/23e90e270ae95b92.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023929Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a6ddad4e1c2609ee43b9297c4d5512063b485527e70eb9efe9d04f6595c1ea5c"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/a9075b00fb12af0e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210330Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c2ef642602ba59cef7021ee19531b06ea9a69544363a965dbb8a8bc1761e27df",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/2bacf38855776e72.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210331Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b0d2ba2eba6117b14cd97654a61af9a99bc92d1982a4b50cf1e9110bb729b700"
         },
         {
-            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/7cb4074cc2eb06c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023942Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=167e18ee412fc36ade28138b110b5a0e949a65e31e3f7582474dcdd9f2e04e43",
-            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/a72d2a1fdf3b0dce.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260206%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260206T023942Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c63a9ca3f6142ee26ece638b0ed1cf51f74304b1e08b4174bdee4bdc000739cf"
+            "image_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/72058d2be33fc809.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210341Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=696fd035dcd89206773178f23b6a23a4734a5d45203d63e5c5db22166984f3e5",
+            "text_url": "https://s3.eu-central-003.backblazeb2.com/gradients-validator/b0294eb258373e5e.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=00362e8d6b742200000000002%2F20260219%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20260219T210342Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=19337493534099f37c31a00a73d0568cc9ee4a7a2cec348ecc6c084ad1d67872"
         }
     ],
     "model_type": "sdxl",
     "hotkey_details": [
         {
-            "hotkey": "5F53bVrVFTECTCZxFrcZdxFw2eNUuorFNm1rySTYx4B81RJa",
-            "submission_id": "841aeae0-201c-4fc6-b73c-ccd5ae4cee7b",
+            "hotkey": "5CmAQ61VxoLhmvnCLB4UhahwKWsaSxRSzUbEJnZK5iPrMSSo",
+            "submission_id": "97cda45c-d72a-482a-ab71-b882396c1b7b",
             "quality_score": 3,
-            "test_loss": 0.05002986615935182,
-            "synth_loss": 0.05002986615935182,
-            "repo": "gradients-io-tournaments/tournament-tourn_8574c3ae244d9750_20260205-b69fa594-35ea-432f-82f1-3a4efcddd7de-5F53bVrV",
+            "test_loss": 0.031300726034542564,
+            "synth_loss": 0.031300726034542564,
+            "repo": "gradients-io-tournaments/tournament-tourn_fa4363d682790bd4_20260219-adcda8d7-d391-4efa-aca0-da201222980e-5CmAQ61V",
             "rank": 1,
             "score_reason": "Ranked 1st by test_loss",
             "offer_response": null
         },
         {
-            "hotkey": "5CmAQ61VxoLhmvnCLB4UhahwKWsaSxRSzUbEJnZK5iPrMSSo",
-            "submission_id": "9f81ed48-dd95-4057-ad3f-5bda83a849dd",
+            "hotkey": "5CnnnSvkR1oqTdjGtMsXrx5Qx47u3qnGeonzdv2VFHSNDzKE",
+            "submission_id": "07658f08-d9a2-4bad-a770-cd31affcce71",
             "quality_score": 0,
-            "test_loss": 0.05006239486299812,
-            "synth_loss": 0.05006239486299812,
-            "repo": "gradients-io-tournaments/tournament-tourn_8574c3ae244d9750_20260205-b69fa594-35ea-432f-82f1-3a4efcddd7de-5CmAQ61V",
+            "test_loss": 0.03330654139221135,
+            "synth_loss": 0.03330654139221135,
+            "repo": "gradients-io-tournaments/tournament-tourn_fa4363d682790bd4_20260219-adcda8d7-d391-4efa-aca0-da201222980e-5CnnnSvk",
             "rank": 2,
             "score_reason": "Ranked below top 1 by test_loss",
             "offer_response": null
